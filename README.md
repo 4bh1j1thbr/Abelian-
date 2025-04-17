@@ -16,7 +16,7 @@
 
   <header>
     <h1>Abhijith B R</h1>
-    <p>I am a BTech student in KTU</p>
+    <p>I am a BTech student</p>
   </header>
 
   <section>
